@@ -1,2 +1,2 @@
 # tik-tak-toe
-a simple single player game
+A simple single-player 'tic-tac-toe' game made using vanilla javascript and bootstrap.
